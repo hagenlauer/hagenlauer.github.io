@@ -1,0 +1,14 @@
+body {
+    font-family: Optima, 'Gill Sans', Helvetica, Arial, Geneva, Swiss, SunSans-Regular;
+    font-size: 75%;
+    width:50em;
+    margin-top: 0em;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 175%;
+    text-align: left;
+    font-family: 'IM Fell DW Pica', serif;
+}
+
